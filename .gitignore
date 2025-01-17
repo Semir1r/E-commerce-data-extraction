@@ -1,4 +1,6 @@
 venv
 data
+.env
 *.csv
 *.session
+*.session-journal
